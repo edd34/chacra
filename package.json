@@ -8,8 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "axios": "^0.20.0",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "date-holidays": "^1.6.2",
+    "downloadjs": "^1.4.7",
+    "v-calendar": "^1.0.8",
+    "vue": "^2.6.11",
+    "vue-router": "^3.4.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
